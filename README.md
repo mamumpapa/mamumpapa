@@ -5,8 +5,5 @@ I am a master's degree at the **IIP LAB**, Chung-Ang University, starting in Mar
 I am interested in **3D computer vision**, particularly **3D image segmentation** and **3D object detection**.
 
 ### Projects
-<details>
-<br>
-
 - ***[SCH.공과대.학술제]시각장애인을 위한 종이 활자 책 리딩 앱*** (2022) [GitHub]([https://github.com/haZuny/OOPSLA-reading-book-app](https://github.com/mamumpapa/OOPSLA-reading-book-app))
-</details>
+
