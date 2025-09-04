@@ -9,3 +9,6 @@ I am interested in **3D computer vision**, particularly **3D image segmentation*
 - ***[SCH.공과대.학술제2022]휴지통 위치 추천 어플리케이션*** [GitHub](https://github.com/mamumpapa/OOPSLA-trash-can-recommendation)
 - ***[컴퓨터 비전 과목 최종 텀프로젝트]이더넷 길이 예측*** (2022) [GitHub](https://github.com/mamumpapa/Computer-Vision-Term-Project)
 - ***[JAVA응용프로그래밍 과목 최종 텀프로젝트]양방향 통신을 통한 메신저 프로그램*** (2022) [GitHub](https://github.com/mamumpapa/JAVA-Term-Project/tree/main)
+
+### Paper
+- ***[Lite Swin UNETR: A Lightweight Version of Swin UNETR for Efficient 3D Medical Image Segmentation](https://github.com/mamumpapa/OOPSLA-reading-book-app](https://link.springer.com/article/10.1007/s42835-025-02392-2)*** 
