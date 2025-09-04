@@ -1,6 +1,6 @@
 ## Hi, I am Junyoung Park, dreaming of becoming a **Deeplearning Engineer**. 👋
 
-I am a master's degree at the **IIP LAB**, Chung-Ang University, starting in March 2024. 
+I am a master's degree at the **[IIP LAB](https://sites.google.com/view/cau-iip-lab/home?authuser=0)**, Chung-Ang University, starting in March 2024. 
 
 I am interested in **3D computer vision**, particularly **3D image segmentation** and **3D object detection**.
 
