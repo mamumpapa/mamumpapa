@@ -11,4 +11,4 @@ I am interested in **3D computer vision**, particularly **3D image segmentation*
 - ***[JAVA응용프로그래밍 과목 최종 텀프로젝트]양방향 통신을 통한 메신저 프로그램*** (2022) [GitHub](https://github.com/mamumpapa/JAVA-Term-Project/tree/main)
 
 ### Paper
-- ***[Lite Swin UNETR: A Lightweight Version of Swin UNETR for Efficient 3D Medical Image Segmentation](https://link.springer.com/article/10.1007/s42835-025-02392-2)*** 
+- ***Lite Swin UNETR: A Lightweight Version of Swin UNETR for Efficient 3D Medical Image Segmentation*** (2025) [Link](https://link.springer.com/article/10.1007/s42835-025-02392-2)
