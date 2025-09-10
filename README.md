@@ -6,7 +6,7 @@ I am interested in **3D computer vision**, particularly **3D image segmentation*
 
 ### Paper
 - ***Lite Swin UNETR: A Lightweight Version of Swin UNETR for Efficient 3D Medical Image Segmentation*** (2025) [Paper](https://link.springer.com/article/10.1007/s42835-025-02392-2) [Github](https://github.com/mamumpapa/Lite-Swin-UNETR)
-- 
+  
 ### Projects
 - ***[SCH.공과대.학술제2022.은상]휴지통 위치 추천 어플리케이션*** [GitHub](https://github.com/mamumpapa/OOPSLA-trash-can-recommendation)
 - ***[SCH.공과대.학술제2022.장려상]시각장애인을 위한 종이 활자 책 리딩 앱*** [GitHub](https://github.com/mamumpapa/OOPSLA-reading-book-app)
